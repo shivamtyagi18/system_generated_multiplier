@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1588975102">
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BG-DRC" Name="CLA_Adder_Wrapper_level2.drc"/>
+  <File Type="BG-BGN" Name="CLA_Adder_Wrapper_level2.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="CLA_Adder_Wrapper_level2.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="CLA_Adder_Wrapper_level2.ltx"/>
+  <File Type="RBD_FILE" Name="CLA_Adder_Wrapper_level2.rbd"/>
+  <File Type="NPI_FILE" Name="CLA_Adder_Wrapper_level2.npi"/>
+  <File Type="RNPI_FILE" Name="CLA_Adder_Wrapper_level2.rnpi"/>
+  <File Type="RDI-RDI" Name="CLA_Adder_Wrapper_level2.vdi"/>
+  <File Type="RCFI_FILE" Name="CLA_Adder_Wrapper_level2.rcfi"/>
+  <File Type="PDI-FILE" Name="CLA_Adder_Wrapper_level2.pdi"/>
+  <File Type="BITSTR-MMI" Name="CLA_Adder_Wrapper_level2.mmi"/>
+  <File Type="BITSTR-BMM" Name="CLA_Adder_Wrapper_level2_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="CLA_Adder_Wrapper_level2.nky"/>
+  <File Type="BITSTR-RBT" Name="CLA_Adder_Wrapper_level2.rbt"/>
+  <File Type="BITSTR-MSK" Name="CLA_Adder_Wrapper_level2.msk"/>
+  <File Type="BG-BIN" Name="CLA_Adder_Wrapper_level2.bin"/>
+  <File Type="BG-BIT" Name="CLA_Adder_Wrapper_level2.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="CLA_Adder_Wrapper_level2_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="CLA_Adder_Wrapper_level2_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="CLA_Adder_Wrapper_level2_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="CLA_Adder_Wrapper_level2_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="CLA_Adder_Wrapper_level2_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="CLA_Adder_Wrapper_level2_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="CLA_Adder_Wrapper_level2_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="CLA_Adder_Wrapper_level2_postroute_physopt.dcp"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="CLA_Adder_Wrapper_level2_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="CLA_Adder_Wrapper_level2_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW" Name="CLA_Adder_Wrapper_level2_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="CLA_Adder_Wrapper_level2_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="CLA_Adder_Wrapper_level2_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="CLA_Adder_Wrapper_level2_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="CLA_Adder_Wrapper_level2_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="CLA_Adder_Wrapper_level2_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="CLA_Adder_Wrapper_level2_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="CLA_Adder_Wrapper_level2_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="CLA_Adder_Wrapper_level2_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="CLA_Adder_Wrapper_level2_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="CLA_Adder_Wrapper_level2_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="CLA_Adder_Wrapper_level2_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="CLA_Adder_Wrapper_level2_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="CLA_Adder_Wrapper_level2_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="CLA_Adder_Wrapper_level2_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="CLA_Adder_Wrapper_level2_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="CLA_Adder_Wrapper_level2_drc_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="CLA_Adder_Wrapper_level2_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="CLA_Adder_Wrapper_level2_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="CLA_Adder_Wrapper_level2_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="CLA_Adder_Wrapper_level2_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="CLA_Adder_Wrapper_level2_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="CLA_Adder_Wrapper_level2_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="CLA_Adder_Wrapper_level2_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="CLA_Adder_Wrapper_level2_postplace_pwropt.dcp"/>
+  <File Type="PLACE-TIMING" Name="CLA_Adder_Wrapper_level2_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="CLA_Adder_Wrapper_level2_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="CLA_Adder_Wrapper_level2_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="CLA_Adder_Wrapper_level2_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="CLA_Adder_Wrapper_level2_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="CLA_Adder_Wrapper_level2_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="CLA_Adder_Wrapper_level2_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="CLA_Adder_Wrapper_level2_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="CLA_Adder_Wrapper_level2_placed.dcp"/>
+  <File Type="PWROPT-DRC" Name="CLA_Adder_Wrapper_level2_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="CLA_Adder_Wrapper_level2_pwropt.dcp"/>
+  <File Type="OPT-HWDEF" Name="CLA_Adder_Wrapper_level2.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="CLA_Adder_Wrapper_level2_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DRC" Name="CLA_Adder_Wrapper_level2_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="CLA_Adder_Wrapper_level2_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="CLA_Adder_Wrapper_level2_timing_summary_init.rpt"/>
+  <File Type="PWROPT-TIMING" Name="CLA_Adder_Wrapper_level2_timing_summary_pwropted.rpt"/>
+  <File Type="REPORTS-TCL" Name="CLA_Adder_Wrapper_level2_reports.tcl"/>
+  <File Type="OPT-TIMING" Name="CLA_Adder_Wrapper_level2_timing_summary_opted.rpt"/>
+  <File Type="PA-TCL" Name="CLA_Adder_Wrapper_level2.tcl"/>
+  <File Type="CFI_FILE" Name="CLA_Adder_Wrapper_level2.cfi"/>
+  <File Type="PA-DCP" Name="CLA_Adder_Wrapper_level2.dcp"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/BSI_Adder_Top.v">
+      <FileInfo SFType="SVerilog">
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/BSI_Adder_Top.v"/>
+        <Attr Name="ImportTime" Val="1585691263"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/BSI_Adder_Wrapper_level1.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/BSI_Adder_Wrapper_level1.sv"/>
+        <Attr Name="ImportTime" Val="1585859554"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/BSI_Memory_Module.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/BSI_Memory_Module.sv"/>
+        <Attr Name="ImportTime" Val="1588310489"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/bsi_mem_output_side.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/bsi_mem_output_side.sv"/>
+        <Attr Name="ImportTime" Val="1585558030"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/new/carry_lookahead_adder.v">
+      <FileInfo SFType="SVerilog">
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/new/carry_lookahead_adder.v"/>
+        <Attr Name="ImportTime" Val="1585559864"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/input_buffer.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/input_buffer.sv"/>
+        <Attr Name="ImportTime" Val="1585689867"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/output_buffer.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/output_buffer.sv"/>
+        <Attr Name="ImportTime" Val="1585558056"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/output_mem_to_R0.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/output_mem_to_R0.sv"/>
+        <Attr Name="ImportTime" Val="1585277625"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/BSI_Adder_Wrapper_level2.v">
+      <FileInfo SFType="SVerilog">
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/BSI_Adder_Wrapper_level2.v"/>
+        <Attr Name="ImportTime" Val="1585689923"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/new/full_adder.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/new/full_adder.sv"/>
+        <Attr Name="ImportTime" Val="1584871069"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="CLA_Adder_Wrapper_level2"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/new/CLA_adder.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/constrs_1/new/CLA_adder.xdc"/>
+        <Attr Name="ImportTime" Val="1588196726"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

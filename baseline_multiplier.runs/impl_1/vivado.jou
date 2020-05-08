@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:48:12 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Fri May  8 14:58:24 2020
+# Process ID: 30186
+# Current directory: /home/shivamtyagi/baseline_multiplier/baseline_multiplier.runs/impl_1
+# Command line: vivado -log CLA_Adder_Wrapper_level2.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source CLA_Adder_Wrapper_level2.tcl -notrace
+# Log file: /home/shivamtyagi/baseline_multiplier/baseline_multiplier.runs/impl_1/CLA_Adder_Wrapper_level2.vdi
+# Journal file: /home/shivamtyagi/baseline_multiplier/baseline_multiplier.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source CLA_Adder_Wrapper_level2.tcl -notrace

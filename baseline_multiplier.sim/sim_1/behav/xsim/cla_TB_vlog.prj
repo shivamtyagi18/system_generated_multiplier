@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../baseline_multiplier.srcs/sources_1/imports/sources_1/imports/new/BSI_Adder_Top.v" \
+"../../../../baseline_multiplier.srcs/sources_1/imports/sources_1/imports/new/BSI_Adder_Wrapper_level1.sv" \
+"../../../../baseline_multiplier.srcs/sources_1/imports/sources_1/imports/new/BSI_Adder_Wrapper_level2.v" \
+"../../../../baseline_multiplier.srcs/sources_1/imports/sources_1/imports/new/BSI_Memory_Module.sv" \
+"../../../../baseline_multiplier.srcs/sources_1/imports/sources_1/imports/new/bsi_mem_output_side.sv" \
+"../../../../baseline_multiplier.srcs/sources_1/imports/sources_1/new/carry_lookahead_adder.v" \
+"../../../../baseline_multiplier.srcs/sources_1/imports/sources_1/imports/new/input_buffer.sv" \
+"../../../../baseline_multiplier.srcs/sources_1/imports/sources_1/imports/new/output_buffer.sv" \
+"../../../../baseline_multiplier.srcs/sources_1/imports/sources_1/imports/new/output_mem_to_R0.sv" \
+"../../../../baseline_multiplier.srcs/sim_1/imports/new/cla_TB.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

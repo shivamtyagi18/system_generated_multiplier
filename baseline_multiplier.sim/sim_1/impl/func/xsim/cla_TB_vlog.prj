@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"cla_TB_func_impl.v" \
+
+sv xil_defaultlib  \
+"../../../../../baseline_multiplier.srcs/sim_1/imports/new/cla_TB.sv" \
+
+# Do not sort compile order
+nosort

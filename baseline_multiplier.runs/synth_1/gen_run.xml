@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1588971365">
+  <File Type="VDS-TIMINGSUMMARY" Name="CLA_Adder_Wrapper_level2_timing_summary_synth.rpt"/>
+  <File Type="RDS-DCP" Name="CLA_Adder_Wrapper_level2.dcp"/>
+  <File Type="RDS-UTIL-PB" Name="CLA_Adder_Wrapper_level2_utilization_synth.pb"/>
+  <File Type="RDS-UTIL" Name="CLA_Adder_Wrapper_level2_utilization_synth.rpt"/>
+  <File Type="RDS-PROPCONSTRS" Name="CLA_Adder_Wrapper_level2_drc_synth.rpt"/>
+  <File Type="RDS-RDS" Name="CLA_Adder_Wrapper_level2.vds"/>
+  <File Type="REPORTS-TCL" Name="CLA_Adder_Wrapper_level2_reports.tcl"/>
+  <File Type="VDS-TIMING-PB" Name="CLA_Adder_Wrapper_level2_timing_summary_synth.pb"/>
+  <File Type="PA-TCL" Name="CLA_Adder_Wrapper_level2.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/BSI_Adder_Top.v">
+      <FileInfo SFType="SVerilog">
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/BSI_Adder_Top.v"/>
+        <Attr Name="ImportTime" Val="1585691263"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/BSI_Adder_Wrapper_level1.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/BSI_Adder_Wrapper_level1.sv"/>
+        <Attr Name="ImportTime" Val="1585859554"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/BSI_Memory_Module.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/BSI_Memory_Module.sv"/>
+        <Attr Name="ImportTime" Val="1588310489"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/bsi_mem_output_side.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/bsi_mem_output_side.sv"/>
+        <Attr Name="ImportTime" Val="1585558030"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/new/carry_lookahead_adder.v">
+      <FileInfo SFType="SVerilog">
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/new/carry_lookahead_adder.v"/>
+        <Attr Name="ImportTime" Val="1585559864"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/input_buffer.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/input_buffer.sv"/>
+        <Attr Name="ImportTime" Val="1585689867"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/output_buffer.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/output_buffer.sv"/>
+        <Attr Name="ImportTime" Val="1585558056"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/output_mem_to_R0.sv">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/output_mem_to_R0.sv"/>
+        <Attr Name="ImportTime" Val="1585277625"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/BSI_Adder_Wrapper_level2.v">
+      <FileInfo SFType="SVerilog">
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/imports/new/BSI_Adder_Wrapper_level2.v"/>
+        <Attr Name="ImportTime" Val="1585689923"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/new/full_adder.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/sources_1/new/full_adder.sv"/>
+        <Attr Name="ImportTime" Val="1584871069"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="CLA_Adder_Wrapper_level2"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/new/CLA_adder.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Carry_Lookahead_Adder/Carry_Lookahead_Adder.srcs/constrs_1/new/CLA_adder.xdc"/>
+        <Attr Name="ImportTime" Val="1588196726"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2019">
+      <Desc>Vivado Synthesis Defaults</Desc>
+    </StratHandle>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>
